@@ -4,8 +4,20 @@ Green leaf area measurement for greenhouse pot crops using top-view images.
 
 ## Installation
 
+**Windows / Mac:**
 ```bash
 pip install git+https://github.com/agronomy4future/sangchu
+```
+
+**Linux (virtual environment):**
+```bash
+source /home/your_username/venv/bin/activate
+pip install git+https://github.com/agronomy4future/sangchu
+```
+
+**Linux (system, if externally-managed error):**
+```bash
+pip install git+https://github.com/agronomy4future/sangchu --break-system-packages
 ```
 
 ## Usage
